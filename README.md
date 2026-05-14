@@ -39,15 +39,15 @@ Utility Registry (CSV)  →           ↓
 
 Monthly energy consumption per capita:
 
-![Monthly Energy](screenshots/plots/monthly%20energy%20per%20capita.png)
+![Monthly Energy](plots/monthly%20energy%20per%20capita.png)
 
 Heating intensity vs energy consumption:
 
-![Heating Intensity](screenshots/plots/heating%20intensity%20vs%20epc.png)
+![Heating Intensity](plots/heating%20intensity%20vs%20epc.png)
 
 Seasonal distribution:
 
-![Seasonal](screenshots/plots/seasonal%20distribution%20of%20epc.png)
+![Seasonal](plots/seasonal%20distribution%20of%20epc.png)
 
 ## Stack
 
