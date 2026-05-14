@@ -6,7 +6,7 @@ A multi-stage data engineering pipeline analysing the socio-economic and environ
 
 Urban energy data is fragmented across incompatible sources: structured utility registries, semi-structured government APIs, and high-volume weather streams. This project builds a end-to-end pipeline that ingests, transforms, and analyses all three using a "Polyglot Persistence" approach.
 
-**Key finding:** Temperature and precipitation explain **66.2% of the variance** in per-capita energy demand (OLS R² = 0.662), with New York's grid showing a clear heating-dominant profile — winter peaks far exceed summer cooling loads.
+**Key finding:** Temperature and precipitation explain **66.2% of the variance** in per-capita energy demand (OLS R² = 0.662), with New York's grid showing a clear heating-dominant profile, winter peaks far exceed summer cooling loads.
 
 ## Architecture
 
